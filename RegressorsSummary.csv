@@ -1,0 +1,11 @@
+Model,R2,RMSE,MSE,MAPE,Normaldistribution,Variance,Autocorrelation
+LR,0.8566864727858708,6.72303840929686,45.19924545288086,14.289601147174835,Not normal distribution,No constant variance,Residuals autocorrelated
+KNN,0.838369235951754,7.139766716658924,50.97626876831055,16.257239878177643,Not normal distribution,No constant variance,Residuals autocorrelated
+GradientBoost,0.8370223946980724,7.169451973113876,51.401041594786456,14.860298054015402,Not normal distribution,No constant variance,Residuals autocorrelated
+ExtraTree,0.8307274713229437,7.306598353851435,53.386379504504504,15.16049687262068,Not normal distribution,No constant variance,Residuals autocorrelated
+RadomForest,0.8282347415525477,7.3602007057844165,54.172554429429425,14.845595546688035,Not normal distribution,No constant variance,Residuals autocorrelated
+SVR,0.8153644933181377,7.630967518757818,58.23166527233685,19.1422138565742,Not normal distribution,No constant variance,Residuals autocorrelated
+AdaBoost,0.8136181259683252,7.666971180621674,58.78244708448331,14.932668784701164,Not normal distribution,No constant variance,Residuals autocorrelated
+LASSO,0.7613743345708337,8.675221500262301,75.25946807861328,20.955628156661987,Not normal distribution,No constant variance,Residuals autocorrelated
+CART,0.6851669576697774,9.964652241513212,99.29429429429429,19.851462763990455,Not normal distribution,No constant variance,Residuals No-autocorrelated
+ElasticNet,0.33480148389551123,14.484304417640864,209.79507446289062,36.78262531757355,Not normal distribution,No constant variance,Residuals autocorrelated
